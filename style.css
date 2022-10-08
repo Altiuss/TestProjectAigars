@@ -1,0 +1,9 @@
+.header {
+  color: green;
+  background-color: rgb(235, 229, 222);
+  width: 120px;
+  height: 120px;
+  display: grid;
+  text-align: center;
+  align-items: center;
+}

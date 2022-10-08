@@ -1,0 +1,15 @@
+* {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.aigarsStyle {
+  width: max;
+  height: 40vw;
+  background-color: aqua;
+  font-size: 10vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
